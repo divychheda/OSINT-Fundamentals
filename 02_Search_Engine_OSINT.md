@@ -49,5 +49,8 @@ password site:tesla.com filetype:pdf    (this searches for the word password in 
 ```
 site:tesla.com -www -forums  ( this excludes www.tesla.com and forums.tesla.com from the search results )
 ```
-
-## cont from 53.40
+- Can also search intext, intitle or inurl etc specifically:
+```
+"heath adams" intext:password   (returns docs which contain heath adams anywhere but theword password in their text body)
+```
+- Can do all of the above and more in google advanced search.
