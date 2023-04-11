@@ -20,6 +20,6 @@ https://phonebook.cz
 - checks if email exists ot not
 
 ## Forgot Password
-- many a times forgot password would send verification code to affiliated emails
+- many a times if you don't know if email exists, forgot password reveals that and would send verification code to affiliated emails
 - they can be be inferred by the naming convention of the company<br>
 ![image](https://user-images.githubusercontent.com/64409788/230984894-4cb8bdf8-4133-400d-a213-d162280f34d6.png)
