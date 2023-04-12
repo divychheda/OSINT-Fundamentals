@@ -36,3 +36,10 @@ Infobel - https://infobel.com/
 ```
 "heath adams" intext:"birthday" site:twitter.com
 ```
+
+## Similarly for resume
+```
+"heath adams" resume site:google.com (involves all subdomains like drive, docs etc)
+or
+"heath adams" resume fileType:pdf
+```
