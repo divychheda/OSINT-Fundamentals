@@ -1,5 +1,9 @@
 # Finding People
-Google is also good
+Google is good
+
+One can also look into voter records to find info about someone
+
+Other good sites are:
 
 WhitePages - https://www.whitepages.com/
 
