@@ -37,7 +37,7 @@ Infobel - https://infobel.com/
 "heath adams" intext:"birthday" site:twitter.com
 ```
 
-## Similarly for resume
+## Similarly for resume (get creative)
 ```
 "heath adams" resume site:google.com (involves all subdomains like drive, docs etc)
 or
