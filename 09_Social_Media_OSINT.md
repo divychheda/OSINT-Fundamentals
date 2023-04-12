@@ -45,3 +45,22 @@ geocode:17.4204912,78.4090679,17,10km to:thecybermentor
     - search by userID, keywords, time (since and until) etc
     - get userID of any user by going to their facebook page > view page source > ctrl+F > userID
   
+# Instagram
+- Simply search for name, username, hashtag
+- Look into followers, following
+- https://imginn.com/ website to do recon (can download images in posts from here, instagram doesnt allow)
+- To get user id: insta page > view page source > ctrl+F > profilePage_
+
+# Snapchat
+- https://map.snapchat.com/ can look at snaps in that location
+
+# Reddit
+- Same as most search engines (google, twitter)
+- Search directly or between quotes for it to be consecutive
+- Search by new, top, hot etc
+- Or simply *Google*: `"the cyber mentor" site:reddit.com` and use other google foo
+
+# Linkedin
+- Search for users, look into contact info and location
+- Sometimes can find phone number or personal email in contact info
+- Get info about persons previous organisations, education, recommendations, publications etc
