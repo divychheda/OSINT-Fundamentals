@@ -12,6 +12,16 @@
 - tells you if an email has been leaked in a breach
 - but doesn't tell the password
 
+### Alternatives (You may need to sign up and/or pay for the service) :
+
+- https://snusbase.com/
+
+- https://leak-lookup.com/
+
+- https://dehashed.com/
+
+- https://intelx.io/signup
+
 # Usernames
 ## Namech_k
 - https://namechk.com/
