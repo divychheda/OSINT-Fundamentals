@@ -5,6 +5,7 @@
 - Can find passwords for emails, usernames
 - Can find other accounts (emails) that use the same password entered as input (for eg bob@gmail.com and bob@tesla.com)
 - If you get a hash, you can try to crack it so search for other accounts using that hash
+- Search the hash up in hashes.org to get it's plain text
 
 ## haveibeenpwned.com
 - https://haveibeenpwned.com/
